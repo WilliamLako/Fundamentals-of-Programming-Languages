@@ -1,3 +1,4 @@
+# Getting the grade score
 def get_grade(score):
     grades = {
         (90, 100): 'A Excellent',
